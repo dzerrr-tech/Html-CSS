@@ -1,0 +1,15 @@
+ul.makanan {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul.orang {
+    color: pink;
+}
+
+ul {
+    font-weight: bold;
+}
+
+ul.makanan li#favorit {
+    color: violet;
+}
